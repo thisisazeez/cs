@@ -1,0 +1,15 @@
+/home/sherif/Desktop/kapp/bin/Debug/net6.0/kapp
+/home/sherif/Desktop/kapp/bin/Debug/net6.0/kapp.deps.json
+/home/sherif/Desktop/kapp/bin/Debug/net6.0/kapp.runtimeconfig.json
+/home/sherif/Desktop/kapp/bin/Debug/net6.0/kapp.dll
+/home/sherif/Desktop/kapp/bin/Debug/net6.0/kapp.pdb
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.csproj.AssemblyReference.cache
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.AssemblyInfoInputs.cache
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.AssemblyInfo.cs
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.csproj.CoreCompileInputs.cache
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.dll
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/refint/kapp.dll
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.pdb
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/kapp.genruntimeconfig.cache
+/home/sherif/Desktop/kapp/obj/Debug/net6.0/ref/kapp.dll
